@@ -1,0 +1,1 @@
+E:\Stuffs\Development\Technology_One\Technology_One_Technical_Test\NumberToWords\numbertowords.client\obj\Debug\numbertowords.client.esproj.CoreCompileInputs.cache

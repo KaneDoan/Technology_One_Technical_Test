@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "eiot+debhvt6ztXENNQV2yri1aT/MwlDWjis1ULNywM=",
+  "Source": "NumberToWords.Server",
+  "BasePath": "_content/NumberToWords.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "E:\\Stuffs\\Development\\Technology_One\\Technology_One_Technical_Test\\numbertowords.client\\numbertowords.client.esproj",
+      "Version": 2,
+      "Source": "numbertowords.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

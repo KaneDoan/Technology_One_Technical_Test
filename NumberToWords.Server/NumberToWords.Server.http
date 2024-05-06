@@ -1,0 +1,6 @@
+@NumberToWords.Server_HostAddress = http://localhost:7134
+
+GET {{NumberToWords.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

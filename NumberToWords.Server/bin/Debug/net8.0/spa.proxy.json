@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "E:\\Stuffs\\Development\\Technology_One\\Technology_One_Technical_Test\\NumberToWords.Server\\..\\numbertowords.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

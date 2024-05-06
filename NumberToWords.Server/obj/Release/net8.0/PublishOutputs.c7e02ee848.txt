@@ -1,0 +1,12 @@
+E:\Stuffs\Development\Technology_One\Technology_One_Technical_Test\NumberToWords.Server\obj\Release\net8.0\PubTmp\Out\NumberToWords.Server.exe
+E:\Stuffs\Development\Technology_One\Technology_One_Technical_Test\NumberToWords.Server\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+E:\Stuffs\Development\Technology_One\Technology_One_Technical_Test\NumberToWords.Server\obj\Release\net8.0\PubTmp\Out\appsettings.json
+E:\Stuffs\Development\Technology_One\Technology_One_Technical_Test\NumberToWords.Server\obj\Release\net8.0\PubTmp\Out\NumberToWords.Server.dll
+E:\Stuffs\Development\Technology_One\Technology_One_Technical_Test\NumberToWords.Server\obj\Release\net8.0\PubTmp\Out\NumberToWords.Server.deps.json
+E:\Stuffs\Development\Technology_One\Technology_One_Technical_Test\NumberToWords.Server\obj\Release\net8.0\PubTmp\Out\NumberToWords.Server.runtimeconfig.json
+E:\Stuffs\Development\Technology_One\Technology_One_Technical_Test\NumberToWords.Server\obj\Release\net8.0\PubTmp\Out\NumberToWords.Server.pdb
+E:\Stuffs\Development\Technology_One\Technology_One_Technical_Test\NumberToWords.Server\obj\Release\net8.0\PubTmp\Out\Microsoft.AspNetCore.SpaProxy.dll
+E:\Stuffs\Development\Technology_One\Technology_One_Technical_Test\NumberToWords.Server\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+E:\Stuffs\Development\Technology_One\Technology_One_Technical_Test\NumberToWords.Server\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+E:\Stuffs\Development\Technology_One\Technology_One_Technical_Test\NumberToWords.Server\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Stuffs\Development\Technology_One\Technology_One_Technical_Test\NumberToWords.Server\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
