@@ -26,3 +26,7 @@ To run the unit tests:
 Open the project in Visual Studio.
 Navigate to Test > Run All Tests to execute the unit tests.
 Unit tests are located in the ConvertUnitTest1.cs file, where you can also modify or add new tests.
+
+## Additional Documents
+The document listing Reason for my approach to this appication is on ReasonForApproach.docx
+My TestPlan for this document is on the TestPlan.docx
